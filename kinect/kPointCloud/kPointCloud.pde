@@ -59,7 +59,6 @@ void draw()
   color   pixelColor;
   
   background(0);
-  //translate(width/2, height/2, 300);
   translate(width/2, height/2, 300); 
   rotateX(rotX);
   rotateY(rotY);
